@@ -104,7 +104,7 @@ Confusion analysis shows overlapping boundaries between
 ---
 
 
-🧾 Key Learnings
+## 🧾 Key Learnings
 Demonstrated three eras of NLP: TF-IDF → Word2Vec → BERT
 
 Lemmatization removed after empirical testing (−1 % F1 drop)
@@ -115,7 +115,7 @@ Classical linear models still outperform deep models on medium corpora
 
 Interpretability achieved via top-n-gram inspection and confusion matrices
 
-🧮 Future Work
+## 🧮 Future Work
 Fine-tune transformer models (BERT-base or DistilBERT) on BBC corpus
 
 Incorporate Named-Entity Recognition for richer feature context
@@ -124,6 +124,6 @@ Deploy as a lightweight web API or Streamlit dashboard for live topic tagging
 
 
 
-🪪 License
+## 🪪 License
 This project is released under the MIT License — free for academic and educational use.
 © 2025 Devansh Gohar
